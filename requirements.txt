@@ -1,0 +1,4 @@
+certifi==2018.1.18
+GDAL==1.11.5
+pypandoc==1.4
+PyYAML==3.12
